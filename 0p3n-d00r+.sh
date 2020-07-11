@@ -21,7 +21,8 @@ banner() {
    printf "/_____________\  \n"
    printf "|______________|   \n"
    printf "\n"
-           printf " \e[1;93m::\e[0m\e[1;77m0p3n-d00r+\e[0m\e[1;93m::\e[0m\n"      printf " \e[1;77m::Coded by Ghosthub::\e[0m\n"
+           printf " \e[1;93m::\e[0m\e[1;77m0p3n-d00r+\e[0m\e[1;93m::\e[0m\n"      
+           printf " \e[1;77m::Coded by Ghosthub::\e[0m\n"
            printf "\n"
 }
 
